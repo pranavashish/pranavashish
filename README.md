@@ -29,5 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavashish&show_icons=true&theme=onedark&locale=en" alt="pranavashish" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavashish&theme=default" alt="pranavashish" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavashish&theme=dark" alt="pranavashish" /></p>
 
