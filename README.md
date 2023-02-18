@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on **EdTech Website**
+- 🔭 I’m currently working on **EdTech-Website**
 
 - 🌱 I’m currently learning **React, TypeScript**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pranavashish@gmail.com**
 
-- ⚡ Fun fact **Ultron was created by Hank Pym. **
+- ⚡ Fun fact **Ultron was created by Hank Pym.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
