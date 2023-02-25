@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Ultron was created by Hank Pym.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/pranavintouch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranavintouch" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranavashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranavashish" height="30" width="40" /></a>
