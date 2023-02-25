@@ -3,15 +3,15 @@
 <h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **EdTech Website**
+- 🔭 I’m currently working on **EdTech Website**.
 
-- 🌱 I’m currently learning **React, TypeScript**
+- 🌱 I’m currently learning **React, TypeScript**.
 
-- 👨‍💻 All of my projects are available at [https://bio.link/pranavas](https://bio.link/pranavas)
+- 👨‍💻 All of my projects are available at [https://bio.link/pranavas](https://bio.link/pranavas).
 
 - 💬 Ask me about **why to choose development over DSA.**
 
-- 📫 How to reach me **pranavashish@gmail.com**
+- 📫 How to reach me **pranavashish@gmail.com**.
 
 - ⚡ Fun fact **Ultron was created by Hank Pym.**
 
