@@ -1,6 +1,6 @@
 <img align="center" alt="Coding"  src="https://i.ibb.co/rfBtdgF/Screenshot-55.png">
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center"> A young-dumb 🤓 front end developer from India 🇮🇳 </h3>
+<h3 align="center"> A young dumb 🤓 Frontend Developer from India 🇮🇳 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **EdTech Website**.
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Ultron was created by Hank Pym.**
 
-<h3 align="left"> Connect with me: </h3>
+<h3 align="left"> Connect with me : </h3>
 <p align="left">
 <a href="https://twitter.com/pranavintouch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranavintouch" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranavashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranavashish" height="30" width="40" /></a>
