@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **EdTech Website**.
 
-- 🌱 I’m currently learning **React & TypeScript**.
+- 🌱 I’m currently learning **React**.
 
 - 👨‍💻 All of my projects are available at [https://bio.link/pranavas](https://bio.link/pranavas).
 
