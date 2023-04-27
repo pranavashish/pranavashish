@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ReactJS & JavaScript**.
 
-- 🌱 I’m currently learning **NodeJS & TypeScript**.
+- 🌱 I’m currently learning **Salesforce & Apex**.
 
 - 👨‍💻 All of my projects are available at [https://bio.link/pranavas](https://bio.link/pranavas).
 
