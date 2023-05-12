@@ -3,9 +3,9 @@
 <h3 align="center"> A young dumb 🤓 Frontend Developer from India 🇮🇳 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **ReactJS & JavaScript**.
+- 🔭 I’m currently working on **Salesforce & Apex**.
 
-- 🌱 I’m currently learning **Salesforce & Apex**.
+- 🌱 I’m currently learning **Lightning Web Components**.
 
 - 👨‍💻 All of my projects are available at [https://bio.link/pranavas](https://bio.link/pranavas).
 
