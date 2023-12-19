@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Nodejs**.
 
-- 🌱 I’m currently learning **Lightning Web Components**.
+- 🌱 I’m currently learning **Backend Development**.
 
 - 👨‍💻 All of my projects are available at [https://bio.link/pranavas](https://bio.link/pranavas).
 
