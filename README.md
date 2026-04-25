@@ -27,22 +27,22 @@ I enjoy solving complex business problems through clean architecture, efficient 
 <br/>  
 
 
-## Rapidfire  
+## About Me 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on enterprise Salesforce solutions using **Apex, LWC, Flows, and integrations.**  
+🔭 I’m currently working on enterprise Salesforce solutions using **Apex, LWC, Flows, and integrations.**  
+
+  
+🌱 I’m currently learning **advanced Apex design patterns, Copado DevOps, and Agentforce AI.**  
   
 
-- 🌱 I’m currently learning **advanced Apex design patterns, Copado DevOps, and Agentforce AI.**  
+❓ Ask me about **Salesforce Development, Apex Triggers, LWC, Admin, Flows, Security Model, and REST APIs.**  
   
 
-- ❓ Ask me about **Salesforce Development, Apex Triggers, LWC, Admin, Flows, Security Model, and REST APIs.**  
+⚡ Fun fact: I enjoy **automating tasks** that used to take hours into clicks that take seconds.  
   
 
-- ⚡ Fun fact: I enjoy **automating tasks** that used to take hours into clicks that take seconds.  
-  
-
--  🏆 Certified in:
+🏆 Certified in:
   - **Salesforce Certified Platform Developer**
   - **Salesforce Certified Platform Administrator**
   - **Salesforce Certified Platform Foundations**
