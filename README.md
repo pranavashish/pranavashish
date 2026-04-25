@@ -1,4 +1,4 @@
-<img align="center" alt="Salesforce Developer" src="https://ibb.co/PZvXGK2n">
+<img align="center" alt="Salesforce Developer" src="https://i.ibb.co/TBxjM6QS/linkedin-upfdated-banner-2.jpg">
 
 <h1 align="center">Hi 👋, I'm Pranav Ashish</h1>
 <h3 align="center">🚀 Salesforce Developer | 2+ Years Experience | India 🇮🇳</h3>
