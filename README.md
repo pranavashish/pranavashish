@@ -100,4 +100,3 @@ I enjoy solving complex business problems through clean architecture, efficient 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
