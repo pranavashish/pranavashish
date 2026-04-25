@@ -1,92 +1,103 @@
 <img align="center" alt="Salesforce Developer" src="https://i.ibb.co/rfBtdgF/Screenshot-55.png">
 
 <h1 align="center">Hi 👋, I'm Pranav Ashish</h1>
-<h3 align="center">🚀 Salesforce Developer | 1.5+ Years Experience | India 🇮🇳</h3>
+<h3 align="center">🚀 Salesforce Developer | 2+ Years Experience | India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🔭 I’m currently working as a **Salesforce Developer at Cloudmetic**.
-
-- 🌱 I’m currently learning **Advanced Apex, LWC Architecture & Integrations**.
-
-- 💼 Hands-on experience in **Apex, Triggers, Flows, LWC, Admin Configuration, Integrations & Deployments**.
-
-- 🏆 Certified in:
-  - **Salesforce Certified Platform Developer I**
-  - **Salesforce Certified Administrator**
-  - **Salesforce Certified Associate (Foundation)**
-  - **Copado AI Certified**
-
-- 👨‍💻 Passionate about building scalable CRM solutions and automating business processes.
-
-- 📫 Reach me at **pranavashish@gmail.com**
-
-- ⚡ Fun fact: **Salesforce is not just CRM, it’s an ecosystem.**
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/pranavashish" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<a href="https://github.com/pranavashish" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-
-<a href="https://twitter.com/pranavintouch" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+<a href="https://twitter.com/pranavintouch" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-</p>
+<a href="https://linkedin.com/in/pranavashish" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
 
----
 
-<h3 align="left">⚙️ Salesforce Skills & Tools:</h3>
 
-<p align="left">
+### Glad to see you here!  
+Glad to see you here!
 
-<a href="https://www.salesforce.com/" target="_blank">
-<img src="https://img.icons8.com/color/48/salesforce.png" alt="salesforce" width="40" height="40"/>
-</a>
+I’m a Salesforce Developer with 2+ years of hands-on experience building scalable CRM solutions for real business use cases. I specialise in Apex development, Lightning Web Components, automation, integrations, and end-to-end Salesforce implementations.
 
-<a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/" target="_blank">
-<img src="https://img.icons8.com/color/48/source-code.png" alt="apex" width="40" height="40"/>
-</a>
+I enjoy solving complex business problems through clean architecture, efficient automation, and user-friendly experiences. My focus areas include Sales Cloud, Service Cloud, Flows, security model, deployments, and performance-driven development.  
+  
 
-<a href="https://developer.salesforce.com/docs/component-library/" target="_blank">
-<img src="https://img.icons8.com/color/48/lightning-bolt.png" alt="lwc" width="40" height="40"/>
-</a>
+<br/>  
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
 
-<a href="https://copado.com/" target="_blank">
-<img src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="copado" width="40" height="40"/>
-</a>
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
-</a>
+- 🔭 I’m currently working on enterprise Salesforce solutions using **Apex, LWC, Flows, and integrations.**  
+  
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
+- 🌱 I’m currently learning **advanced Apex design patterns, Copado DevOps, and Agentforce AI.**  
+  
 
-</p>
+- ❓ Ask me about **Salesforce Development, Apex Triggers, LWC, Admin, Flows, Security Model, and REST APIs.**  
+  
 
----
+- ⚡ Fun fact: I enjoy **automating tasks** that used to take hours into clicks that take seconds.  
+  
 
-<h3 align="left">📊 GitHub Stats:</h3>
+-  🏆 Certified in:
+  - **Salesforce Certified Platform Developer**
+  - **Salesforce Certified Platform Administrator**
+  - **Salesforce Certified Platform Foundations**
+  - **Copado AI Certified**  
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavashish&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="top langs" />
-</p>
 
-<p>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavashish&theme=dark" alt="streak stats" />
-</p>
+</td><td valign="top" width="50%">
 
-<br><br><br><br><br><br><br><br>
+<div align="center">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" style="width: 100%" />
+</div>  
 
----
 
-<h3 align="center">✨ “Turning Business Needs into Salesforce Solutions.” ✨</h3>
+</td></tr></table>  
+
+<br/>  
+
+
+## Languages and Tools  
+<div align="center">  
+<a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="75" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
+</div>  
+
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pranavashish&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavashish&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
